@@ -11,3 +11,4 @@ Data Structures and Algorithms.
 ## 📅 Progress
 - Day 01: Binary Search
 - Day 02: Bubble Sort
+- Day 03: Selection Sort
